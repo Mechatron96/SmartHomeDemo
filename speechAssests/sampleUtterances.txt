@@ -1,0 +1,8 @@
+DemoIntent {Device}
+DemoIntent activate {Device}
+DemoIntent disable {Device}
+DemoIntent turn on {Device}
+DemoIntent turn off {Device}
+AMAZON.HelpIntent tell me about the devices available
+AMAZON.HelpIntent what are the available devices again
+AMAZON.YesIntent yes
